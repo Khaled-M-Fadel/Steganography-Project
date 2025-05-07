@@ -1,6 +1,7 @@
 # Steganography-Project
 Simple project that hide information in different file types(**Image - Text - Video**)
-_"but there are some problems in extracting information from video"._
+
+        _"but there are some problems in extracting information from video"._
 # GUI Demo
 ![image](https://github.com/user-attachments/assets/2581751c-c83c-4776-81c5-d78dae8e9eb8)
 
